@@ -10,11 +10,11 @@ def multiply_numbers(a, b):
 def divide_numbers(a, b):
 	return a / b
 	
-#def power(a,b):
-	#return a ** b
+def power(a,b):
+	return a ** b
 	
-#def mod(a,b):
-	#return a%b
+def mod(a,b):
+	return a%b
 	
 if __name__ == "__main__":
 	print("Adding:", add_numbers(2,4))
